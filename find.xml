@@ -29,10 +29,10 @@
       <mask>*.j</mask>
       <mask>*.jso</mask>
       <mask>*.jsp</mask>
-      <mask>*.js</mask>
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
