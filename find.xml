@@ -3,12 +3,26 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
+      <mask>*.l</mask>
+      <mask>*.le</mask>
+      <mask>*.les</mask>
+      <mask>*.less</mask>
+      <mask>*.jso</mask>
+      <mask>*.jav</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
       <mask>*.p</mask>
       <mask>*.pr</mask>
       <mask>*.pro</mask>
@@ -16,24 +30,10 @@
       <mask>*.prope</mask>
       <mask>*.proper</mask>
       <mask>*.propert</mask>
+      <mask>*.propertir</mask>
       <mask>*.properti</mask>
       <mask>*.propertie</mask>
       <mask>*.properties</mask>
-      <mask>*.l</mask>
-      <mask>*.le</mask>
-      <mask>*.les</mask>
-      <mask>*.less</mask>
-      <mask>*.jso</mask>
-      <mask>*.jsp</mask>
-      <mask>*.js</mask>
-      <mask>*.jav</mask>
-      <mask>*.xml</mask>
-      <mask>*.xm</mask>
-      <mask>*.x</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
-      <mask>*.ja</mask>
-      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
