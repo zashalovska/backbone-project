@@ -4,14 +4,11 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.mxml</mask>
       <mask>*.jso</mask>
-      <mask>*.jav</mask>
       <mask>*.propertir</mask>
-      <mask>*.ja</mask>
-      <mask>*.java</mask>
-      <mask>*.j</mask>
       <mask>*.js</mask>
       <mask>*.jsp</mask>
       <mask>*.c</mask>
@@ -35,6 +32,10 @@
       <mask>*.propertie</mask>
       <mask>*.properties</mask>
       <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.ja</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
