@@ -17,15 +17,11 @@
       <mask>*.le</mask>
       <mask>*.l</mask>
       <mask>*.pr</mask>
-      <mask>*.jav</mask>
       <mask>*.js</mask>
       <mask>*.</mask>
       <mask>*.x</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
-      <mask>*.j</mask>
-      <mask>*.ja</mask>
-      <mask>*.java</mask>
       <mask>*.p</mask>
       <mask>*.pro</mask>
       <mask>*.prop</mask>
@@ -35,6 +31,10 @@
       <mask>*.properti</mask>
       <mask>*.propertie</mask>
       <mask>*.properties</mask>
+      <mask>*.j</mask>
+      <mask>*.ja</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
