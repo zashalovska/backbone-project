@@ -3,20 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.locations.js" />
     <recentFileMasks>
-      <mask>*.c</mask>
-      <mask>*.cs</mask>
-      <mask>*.css</mask>
-      <mask>*.less</mask>
-      <mask>*.les</mask>
-      <mask>*.le</mask>
-      <mask>*.l</mask>
-      <mask>*.</mask>
-      <mask>*.jav</mask>
-      <mask>*.d</mask>
-      <mask>*.du</mask>
-      <mask>*.dus</mask>
-      <mask>*.dust</mask>
       <mask>*.p</mask>
       <mask>*.pr</mask>
       <mask>*.pro</mask>
@@ -32,8 +20,21 @@
       <mask>*.x</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
+      <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>*.l</mask>
+      <mask>*.lo</mask>
+      <mask>*.loc</mask>
+      <mask>*.loca</mask>
+      <mask>*.locat</mask>
+      <mask>*.locati</mask>
+      <mask>*.locatio</mask>
+      <mask>*.location</mask>
+      <mask>*.locations</mask>
+      <mask>*.locations.</mask>
+      <mask>*.locations.j</mask>
+      <mask>*.locations.js</mask>
     </recentFileMasks>
   </component>
 </application>
