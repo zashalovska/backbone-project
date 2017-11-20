@@ -2,16 +2,11 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Process.java" />
     <recentFileMasks>
-      <mask>*.locat</mask>
-      <mask>*.locati</mask>
-      <mask>*.locatio</mask>
-      <mask>*.location</mask>
-      <mask>*.locations</mask>
-      <mask>*.locations.</mask>
-      <mask>*.locations.j</mask>
-      <mask>*.locations.js</mask>
       <mask>*.x</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
@@ -24,16 +19,24 @@
       <mask>*.js</mask>
       <mask>*x</mask>
       <mask>*xm</mask>
-      <mask>*jav</mask>
       <mask>*f</mask>
       <mask>*ft</mask>
       <mask>*ftl</mask>
       <mask>*xml</mask>
       <mask>*j</mask>
-      <mask>*ja</mask>
-      <mask>*java</mask>
       <mask>*js</mask>
       <mask>*jsp</mask>
+      <mask>*ja</mask>
+      <mask>*jav</mask>
+      <mask>*java</mask>
+      <mask>*Pjava</mask>
+      <mask>*Prjava</mask>
+      <mask>*Projava</mask>
+      <mask>*Procjava</mask>
+      <mask>*Procejava</mask>
+      <mask>*Procesjava</mask>
+      <mask>*Processjava</mask>
+      <mask>*Process.java</mask>
     </recentFileMasks>
   </component>
 </application>
