@@ -3,9 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.x</mask>
-      <mask>*.xm</mask>
       <mask>*.xml</mask>
       <mask>*.d</mask>
       <mask>*.du</mask>
@@ -34,6 +33,8 @@
       <mask>*Procesjava</mask>
       <mask>*Processjava</mask>
       <mask>*Process.java</mask>
+      <mask>.java</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
