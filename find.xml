@@ -3,15 +3,11 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
-      <mask>*.xml</mask>
-      <mask>*.d</mask>
-      <mask>*.du</mask>
       <mask>*.dusy</mask>
       <mask>*.dus</mask>
       <mask>*.dust</mask>
-      <mask>*.j</mask>
-      <mask>*.js</mask>
       <mask>*x</mask>
       <mask>*xm</mask>
       <mask>*f</mask>
@@ -34,6 +30,11 @@
       <mask>*Process.java</mask>
       <mask>.java</mask>
       <mask>*.java</mask>
+      <mask>*.x</mask>
+      <mask>*.xm</mask>
+      <mask>*.xml</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
