@@ -26,14 +26,14 @@
       <mask>*.xml</mask>
       <mask>*.d</mask>
       <mask>v</mask>
-      <mask>*.js</mask>
-      <mask>*.du</mask>
-      <mask>*.dus</mask>
-      <mask>*.dust</mask>
-      <mask>*.j</mask>
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*.dus</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
+      <mask>*.du</mask>
+      <mask>*.dust</mask>
     </recentFileMasks>
   </component>
 </application>
