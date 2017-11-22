@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.dust" />
     <recentFileMasks>
       <mask>mode.js</mask>
       <mask>model.js</mask>
@@ -19,7 +20,6 @@
       <mask>ren.js</mask>
       <mask>rene.js</mask>
       <mask>renew.js</mask>
-      <mask>*.du</mask>
       <mask>*rene.js</mask>
       <mask>*renew.js</mask>
       <mask>*renewa.js</mask>
@@ -28,12 +28,13 @@
       <mask>*re.js</mask>
       <mask>*r.js</mask>
       <mask>*.d</mask>
-      <mask>*.dus</mask>
-      <mask>*.dust</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*.du</mask>
+      <mask>*.dus</mask>
+      <mask>*.dust</mask>
     </recentFileMasks>
   </component>
 </application>
