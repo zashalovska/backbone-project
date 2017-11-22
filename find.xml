@@ -5,10 +5,6 @@
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <option name="FILE_MASK" value="*.dust" />
     <recentFileMasks>
-      <mask>*.xm</mask>
-      <mask>*.xml</mask>
-      <mask>v</mask>
-      <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
       <mask>m.js</mask>
@@ -21,17 +17,21 @@
       <mask>*r.js</mask>
       <mask>*re.js</mask>
       <mask>*rene.js</mask>
-      <mask>*renew.js</mask>
       <mask>*renew.j</mask>
       <mask>*renew.</mask>
       <mask>*renew.d</mask>
       <mask>*renew.du</mask>
       <mask>*renew.dus</mask>
       <mask>*renew.dust</mask>
-      <mask>*.j</mask>
       <mask>*.dusr</mask>
-      <mask>*.js</mask>
       <mask>*.d</mask>
+      <mask>*.j</mask>
+      <mask>re.js</mask>
+      <mask>ren.js</mask>
+      <mask>rene.js</mask>
+      <mask>renew.js</mask>
+      <mask>*renew.js</mask>
+      <mask>*.js</mask>
       <mask>*.du</mask>
       <mask>*.dus</mask>
       <mask>*.dust</mask>
