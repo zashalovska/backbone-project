@@ -3,10 +3,10 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.dust" />
     <recentFileMasks>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
-      <mask>*.d</mask>
       <mask>v</mask>
       <mask>*.ja</mask>
       <mask>*.jav</mask>
@@ -29,11 +29,12 @@
       <mask>*renew.dus</mask>
       <mask>*renew.dust</mask>
       <mask>*.j</mask>
-      <mask>*.du</mask>
       <mask>*.dusr</mask>
+      <mask>*.js</mask>
+      <mask>*.d</mask>
+      <mask>*.du</mask>
       <mask>*.dus</mask>
       <mask>*.dust</mask>
-      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
