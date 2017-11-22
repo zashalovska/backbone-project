@@ -1,9 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project and Libraries" />
-    <option name="defaultScopeName" value="Project and Libraries" />
-    <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*renewal.js" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.dust" />
     <recentFileMasks>
       <mask>mo.js</mask>
       <mask>mod.js</mask>
@@ -11,7 +13,6 @@
       <mask>model.js</mask>
       <mask>*model.js</mask>
       <mask>*.model.js</mask>
-      <mask>*r.js</mask>
       <mask>*renew.j</mask>
       <mask>*renew.</mask>
       <mask>*renew.d</mask>
@@ -19,22 +20,23 @@
       <mask>*renew.dus</mask>
       <mask>*renew.dust</mask>
       <mask>*.dusr</mask>
-      <mask>*.d</mask>
       <mask>*.j</mask>
       <mask>re.js</mask>
       <mask>ren.js</mask>
       <mask>rene.js</mask>
       <mask>renew.js</mask>
       <mask>*.du</mask>
-      <mask>*.dus</mask>
-      <mask>*.dust</mask>
-      <mask>*.js</mask>
-      <mask>*re.js</mask>
-      <mask>*ren.js</mask>
       <mask>*rene.js</mask>
       <mask>*renew.js</mask>
       <mask>*renewa.js</mask>
       <mask>*renewal.js</mask>
+      <mask>*ren.js</mask>
+      <mask>*re.js</mask>
+      <mask>*r.js</mask>
+      <mask>*.js</mask>
+      <mask>*.d</mask>
+      <mask>*.dus</mask>
+      <mask>*.dust</mask>
     </recentFileMasks>
   </component>
 </application>
