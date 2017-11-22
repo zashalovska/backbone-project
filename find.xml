@@ -3,19 +3,8 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*renew.js" />
     <recentFileMasks>
-      <mask>*ftl</mask>
-      <mask>*xml</mask>
-      <mask>*j</mask>
-      <mask>*js</mask>
-      <mask>*jsp</mask>
-      <mask>*ja</mask>
-      <mask>*jav</mask>
-      <mask>*java</mask>
-      <mask>*Pjava</mask>
-      <mask>*Prjava</mask>
-      <mask>*Projava</mask>
       <mask>*Procjava</mask>
       <mask>*Procejava</mask>
       <mask>*Procesjava</mask>
@@ -35,6 +24,17 @@
       <mask>*.dust</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>m.js</mask>
+      <mask>mo.js</mask>
+      <mask>mod.js</mask>
+      <mask>mode.js</mask>
+      <mask>model.js</mask>
+      <mask>*model.js</mask>
+      <mask>*.model.js</mask>
+      <mask>*r.js</mask>
+      <mask>*re.js</mask>
+      <mask>*rene.js</mask>
+      <mask>*renew.js</mask>
     </recentFileMasks>
   </component>
 </application>
