@@ -4,8 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*renew.j</mask>
-      <mask>*renew.</mask>
       <mask>*renew.d</mask>
       <mask>*renew.du</mask>
       <mask>*renew.dus</mask>
@@ -28,12 +26,14 @@
       <mask>*.dust</mask>
       <mask>*.jav</mask>
       <mask>*.js</mask>
-      <mask>*.x</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
       <mask>*.j</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
+      <mask>*.x</mask>
+      <mask>*.xl</mask>
+      <mask>*.xls</mask>
     </recentFileMasks>
   </component>
 </application>
