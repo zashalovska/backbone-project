@@ -28,12 +28,12 @@
       <mask>*.js</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
-      <mask>*.j</mask>
-      <mask>*.ja</mask>
-      <mask>*.java</mask>
       <mask>*.x</mask>
       <mask>*.xl</mask>
       <mask>*.xls</mask>
+      <mask>*.j</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
