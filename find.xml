@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.dust" />
     <recentFileMasks>
       <mask>*renew.d</mask>
       <mask>*renew.du</mask>
@@ -20,10 +21,7 @@
       <mask>*ren.js</mask>
       <mask>*re.js</mask>
       <mask>*r.js</mask>
-      <mask>*.d</mask>
       <mask>*.du</mask>
-      <mask>*.dus</mask>
-      <mask>*.dust</mask>
       <mask>*.jav</mask>
       <mask>*.js</mask>
       <mask>*.xm</mask>
@@ -34,6 +32,9 @@
       <mask>*.j</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
+      <mask>*.d</mask>
+      <mask>*.dus</mask>
+      <mask>*.dust</mask>
     </recentFileMasks>
   </component>
 </application>
