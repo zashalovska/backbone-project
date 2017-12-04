@@ -3,15 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*renew.d</mask>
-      <mask>*renew.du</mask>
-      <mask>*renew.dus</mask>
-      <mask>*renew.dust</mask>
-      <mask>*.dusr</mask>
-      <mask>re.js</mask>
-      <mask>ren.js</mask>
-      <mask>rene.js</mask>
       <mask>renew.js</mask>
       <mask>*rene.js</mask>
       <mask>*renew.js</mask>
@@ -33,6 +26,14 @@
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.ja</mask>
+      <mask>*^Twst.java</mask>
+      <mask>*^Tws.java</mask>
+      <mask>*^Tw.java</mask>
+      <mask>*^Test.java</mask>
+      <mask>*^Tes.java</mask>
+      <mask>*^Te.java</mask>
+      <mask>*^T.java</mask>
+      <mask>*^.java</mask>
       <mask>*.java</mask>
     </recentFileMasks>
   </component>
