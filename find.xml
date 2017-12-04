@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>renew.js</mask>
       <mask>*rene.js</mask>
@@ -15,9 +15,6 @@
       <mask>*r.js</mask>
       <mask>*.du</mask>
       <mask>*.jav</mask>
-      <mask>*.xm</mask>
-      <mask>*.xml</mask>
-      <mask>*.x</mask>
       <mask>*.xl</mask>
       <mask>*.xls</mask>
       <mask>*.d</mask>
@@ -35,6 +32,9 @@
       <mask>*^T.java</mask>
       <mask>*^.java</mask>
       <mask>*.java</mask>
+      <mask>*.x</mask>
+      <mask>*.xm</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
