@@ -2,11 +2,11 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>renew.js</mask>
-      <mask>*rene.js</mask>
       <mask>*renew.js</mask>
       <mask>*renewa.js</mask>
       <mask>*renewal.js</mask>
@@ -22,7 +22,6 @@
       <mask>*.dust</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.ja</mask>
       <mask>*^Twst.java</mask>
       <mask>*^Tws.java</mask>
       <mask>*^Tw.java</mask>
@@ -31,10 +30,13 @@
       <mask>*^Te.java</mask>
       <mask>*^T.java</mask>
       <mask>*^.java</mask>
-      <mask>*.java</mask>
-      <mask>*.x</mask>
-      <mask>*.xm</mask>
       <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*.</mask>
+      <mask>*.ja</mask>
+      <mask>*.jave</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
