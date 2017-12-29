@@ -10,13 +10,9 @@
       <mask>*ren.js</mask>
       <mask>*re.js</mask>
       <mask>*r.js</mask>
-      <mask>*.du</mask>
       <mask>*.jav</mask>
       <mask>*.xl</mask>
       <mask>*.xls</mask>
-      <mask>*.d</mask>
-      <mask>*.dus</mask>
-      <mask>*.dust</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*^Twst.java</mask>
@@ -34,6 +30,10 @@
       <mask>*.ja</mask>
       <mask>*.jave</mask>
       <mask>*.java</mask>
+      <mask>*.d</mask>
+      <mask>*.du</mask>
+      <mask>*.dus</mask>
+      <mask>*.dust</mask>
     </recentFileMasks>
   </component>
 </application>
