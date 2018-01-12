@@ -4,15 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*renew.js</mask>
-      <mask>*renewa.js</mask>
-      <mask>*renewal.js</mask>
-      <mask>*ren.js</mask>
-      <mask>*re.js</mask>
-      <mask>*r.js</mask>
-      <mask>*.jav</mask>
-      <mask>*.xl</mask>
-      <mask>*.xls</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*^Twst.java</mask>
@@ -34,6 +25,15 @@
       <mask>*.du</mask>
       <mask>*.dus</mask>
       <mask>*.dust</mask>
+      <mask>*.p</mask>
+      <mask>*.pro</mask>
+      <mask>*.prop</mask>
+      <mask>*.prope</mask>
+      <mask>*.proper</mask>
+      <mask>*.propert</mask>
+      <mask>*.properti</mask>
+      <mask>*.propertie</mask>
+      <mask>*.properties</mask>
     </recentFileMasks>
   </component>
 </application>
