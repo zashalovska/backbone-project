@@ -4,7 +4,7 @@
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.dust" />
+    <option name="FILE_MASK" value="*.properties" />
     <recentFileMasks>
       <mask>*^Tes.java</mask>
       <mask>*^Te.java</mask>
@@ -12,10 +12,6 @@
       <mask>*^.java</mask>
       <mask>*.jave</mask>
       <mask>*.d</mask>
-      <mask>*.pr</mask>
-      <mask>*.propert</mask>
-      <mask>*.properti</mask>
-      <mask>*.propertie</mask>
       <mask>*.js</mask>
       <mask>*.jso</mask>
       <mask>*.json</mask>
@@ -23,12 +19,6 @@
       <mask>*.xm</mask>
       <mask>*.x</mask>
       <mask>*.</mask>
-      <mask>*.p</mask>
-      <mask>*.pro</mask>
-      <mask>*.prop</mask>
-      <mask>*.prope</mask>
-      <mask>*.proper</mask>
-      <mask>*.properties</mask>
       <mask>*.j</mask>
       <mask>*.ja</mask>
       <mask>*.jav</mask>
@@ -36,6 +26,16 @@
       <mask>*.du</mask>
       <mask>*.dus</mask>
       <mask>*.dust</mask>
+      <mask>*.p</mask>
+      <mask>*.pr</mask>
+      <mask>*.pro</mask>
+      <mask>*.prop</mask>
+      <mask>*.prope</mask>
+      <mask>*.proper</mask>
+      <mask>*.propert</mask>
+      <mask>*.properti</mask>
+      <mask>*.propertie</mask>
+      <mask>*.properties</mask>
     </recentFileMasks>
   </component>
 </application>
