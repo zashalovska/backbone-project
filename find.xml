@@ -4,6 +4,7 @@
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.dust" />
     <recentFileMasks>
       <mask>*^Tes.java</mask>
       <mask>*^Te.java</mask>
@@ -11,9 +12,6 @@
       <mask>*^.java</mask>
       <mask>*.jave</mask>
       <mask>*.d</mask>
-      <mask>*.du</mask>
-      <mask>*.dus</mask>
-      <mask>*.dust</mask>
       <mask>*.pr</mask>
       <mask>*.propert</mask>
       <mask>*.properti</mask>
@@ -35,6 +33,9 @@
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*.du</mask>
+      <mask>*.dus</mask>
+      <mask>*.dust</mask>
     </recentFileMasks>
   </component>
 </application>
