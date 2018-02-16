@@ -5,13 +5,11 @@
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <recentFileMasks>
-      <mask>*^Tes.java</mask>
       <mask>*^Te.java</mask>
       <mask>*^T.java</mask>
       <mask>*^.java</mask>
       <mask>*.jave</mask>
       <mask>*.d</mask>
-      <mask>*.js</mask>
       <mask>*.jso</mask>
       <mask>*.json</mask>
       <mask>*.xml</mask>
@@ -35,6 +33,8 @@
       <mask>*.properti</mask>
       <mask>*.propertie</mask>
       <mask>*.properties</mask>
+      <mask>*.js</mask>
+      <mask>*.jsp</mask>
     </recentFileMasks>
   </component>
 </application>
