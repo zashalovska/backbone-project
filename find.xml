@@ -20,7 +20,6 @@
       <mask>*.dus</mask>
       <mask>*.dust</mask>
       <mask>*.pr</mask>
-      <mask>*.js</mask>
       <mask>*.jsp</mask>
       <mask>*.ja</mask>
       <mask>*.jav</mask>
@@ -35,6 +34,7 @@
       <mask>*.properti</mask>
       <mask>*.propertie</mask>
       <mask>*.properties</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
