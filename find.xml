@@ -1,20 +1,14 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project and Libraries" />
-    <option name="defaultScopeName" value="Project and Libraries" />
-    <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*^T.java</mask>
-      <mask>*^.java</mask>
-      <mask>*.jave</mask>
-      <mask>*.d</mask>
       <mask>*.jso</mask>
       <mask>*.json</mask>
       <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
       <mask>*.du</mask>
       <mask>*.dus</mask>
       <mask>*.dust</mask>
@@ -34,6 +28,12 @@
       <mask>*.propertie</mask>
       <mask>*.properties</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.l</mask>
+      <mask>*.le</mask>
+      <mask>*.les</mask>
+      <mask>*.less</mask>
     </recentFileMasks>
   </component>
 </application>
