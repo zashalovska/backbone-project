@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.less" />
     <recentFileMasks>
       <mask>*.pt</mask>
       <mask>*.p</mask>
@@ -14,8 +15,6 @@
       <mask>*.properti</mask>
       <mask>*.propertie</mask>
       <mask>*.properties</mask>
-      <mask>*.les</mask>
-      <mask>*.jsp</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
       <mask>*.xwo</mask>
@@ -27,13 +26,15 @@
       <mask>*.x</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
-      <mask>*.l</mask>
-      <mask>*.le</mask>
-      <mask>*.less</mask>
       <mask>*.j</mask>
-      <mask>*.js</mask>
       <mask>*.jso</mask>
       <mask>*.json</mask>
+      <mask>*.js</mask>
+      <mask>*.jsp</mask>
+      <mask>*.l</mask>
+      <mask>*.le</mask>
+      <mask>*.les</mask>
+      <mask>*.less</mask>
     </recentFileMasks>
   </component>
 </application>
