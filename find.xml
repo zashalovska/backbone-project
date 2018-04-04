@@ -22,7 +22,6 @@
       <mask>*.css</mask>
       <mask>*.jso</mask>
       <mask>*.json</mask>
-      <mask>*.jsp</mask>
       <mask>*.l</mask>
       <mask>*.le</mask>
       <mask>*.les</mask>
@@ -34,6 +33,7 @@
       <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>*.jsp</mask>
     </recentFileMasks>
   </component>
 </application>
