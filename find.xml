@@ -26,14 +26,14 @@
       <mask>*.le</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
-      <mask>*.dust</mask>
-      <mask>*.dus</mask>
-      <mask>*.du</mask>
-      <mask>*.d</mask>
       <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
       <mask>*.jsp</mask>
+      <mask>*.d</mask>
+      <mask>*.du</mask>
+      <mask>*.dus</mask>
+      <mask>*.dust</mask>
     </recentFileMasks>
   </component>
 </application>
