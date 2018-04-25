@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.properti</mask>
       <mask>*.propertie</mask>
@@ -32,8 +33,8 @@
       <mask>*.dus</mask>
       <mask>*.dust</mask>
       <mask>*.j</mask>
-      <mask>*.js</mask>
       <mask>*.jsp</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
