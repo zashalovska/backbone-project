@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.dust" />
     <recentFileMasks>
       <mask>*.propertie</mask>
       <mask>*.properties</mask>
@@ -26,14 +27,14 @@
       <mask>*.less</mask>
       <mask>*.</mask>
       <mask>*.d</mask>
-      <mask>*.du</mask>
-      <mask>*.dus</mask>
-      <mask>*.dust</mask>
       <mask>*.jsp</mask>
       <mask>*.j</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
       <mask>*.js</mask>
+      <mask>*.du</mask>
+      <mask>*.dus</mask>
+      <mask>*.dust</mask>
     </recentFileMasks>
   </component>
 </application>
