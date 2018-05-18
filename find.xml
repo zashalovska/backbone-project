@@ -22,7 +22,6 @@
       <mask>*.les</mask>
       <mask>*.</mask>
       <mask>*.d</mask>
-      <mask>*.jsp</mask>
       <mask>*.j</mask>
       <mask>*.ja</mask>
       <mask>*.du</mask>
@@ -31,9 +30,10 @@
       <mask>*.l</mask>
       <mask>*.le</mask>
       <mask>*.less</mask>
-      <mask>*.js</mask>
       <mask>*.jjava</mask>
       <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.jsp</mask>
     </recentFileMasks>
   </component>
 </application>
