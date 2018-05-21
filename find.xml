@@ -26,14 +26,14 @@
       <mask>*.xwor</mask>
       <mask>*.xwork</mask>
       <mask>*.x</mask>
-      <mask>*.xm</mask>
-      <mask>*.xml</mask>
       <mask>*.j</mask>
       <mask>*.jsp</mask>
       <mask>*.js</mask>
       <mask>*.</mask>
       <mask>*.dus</mask>
       <mask>*.dust</mask>
+      <mask>*.xm</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
