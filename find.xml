@@ -14,9 +14,6 @@
       <mask>*.xwor</mask>
       <mask>*.xwork</mask>
       <mask>*.x</mask>
-      <mask>*.j</mask>
-      <mask>*.jsp</mask>
-      <mask>*.js</mask>
       <mask>*.</mask>
       <mask>*.xm</mask>
       <mask>*.d</mask>
@@ -34,6 +31,9 @@
       <mask>*.xmcss</mask>
       <mask>*.xmlcss</mask>
       <mask>*.xml</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
+      <mask>*.jsp</mask>
     </recentFileMasks>
   </component>
 </application>
